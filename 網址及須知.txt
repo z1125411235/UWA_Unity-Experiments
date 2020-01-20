@@ -1,0 +1,8 @@
+版本:Unity 2018.4.14f1 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5b561190d7f10a201fd8020d?fbclid=IwAR3yNfbY2eEShhDX2CqOpROUnQWGLxQEAfvhG2prygqEcvc-GG2Pby5Azs0
+
+官方Github網址__https://github.com/MaxSigma/UnityExperiments
+
+本人Github網址__https://github.com/z1125411235/Unity-Experiments
+
